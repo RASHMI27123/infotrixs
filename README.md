@@ -1,2 +1,2 @@
 # infotrixs
-weather app
+I developed this website using html,css,javascript
